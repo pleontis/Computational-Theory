@@ -1,0 +1,9 @@
+Leontis Panagiotis 2018030099
+
+For executing program type in terminal
+
+./compile.sh myanalyzer.y mylexer.l correct1.th
+
+myanalyzer.y                            Bison File
+mylexer.l                               Flex File
+correct1.th correct2.th correct3.th     Theta Programs Given by Instructors
